@@ -20,10 +20,11 @@ My Anime App is designed to provide anime enthusiasts with an engaging and user-
 
 ## Installation
 
-1. **Clone the repository**:
+**Clone the repository**:
 
    ```bash
-   git clone https://github.com/dhany258/My-Anime-app.git 
+   git clone https://github.com/dhany258/My-Anime-app.git
+   ```
    
 ## Open the Project
 
